@@ -26,13 +26,6 @@ In this project, we delve into advanced techniques for forecasting future trends
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
-
-To set up the project, you'll need to install the necessary Python libraries. The project dependencies are listed in the `requirements.txt` file. Install them using pip:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -41,7 +34,7 @@ Follow these steps to run the project:
 1. **Clone the Repository**: Start by cloning the repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/future-forecasting.git
+   git clone https://github.com/GourangPatidar/Future-Forecasting--ARIMA-Rolling-Averages-and-A-B-Testing.git
    ```
 
 2. **Navigate to the Project Directory**: Change to the project directory where the scripts are located.
@@ -50,11 +43,7 @@ Follow these steps to run the project:
    cd future-forecasting
    ```
 
-3. **Run the Main Script**: Execute the main script to start the forecasting processes. This script orchestrates the execution of ARIMA, rolling averages, and A/B testing.
 
-   ```bash
-   python main.py
-   ```
 
 ## Methods
 
